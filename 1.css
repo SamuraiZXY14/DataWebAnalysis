@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+html{ 
+  background-image: url("0mine.jpeg");
+  background-repeat: no-repeat;
+  background-size: 1450px 1000px;
+}
+  a{
+  font-size: 40pt;
+  background-color: rgb(141, 75, 14);
+  color: rgb(93, 145, 28);
+  border-radius: 100px;
+  padding: 15px;
+}
+a:hover{
+  font-size: 42pt; 
+}
+.heading-background{
+  color:rgb(255, 0, 0);
+  font-weight: 300px;
+}
+h1{
+  color:rgb(60, 143, 64)
+}
+.text-container{
+  position: top;
+  color: rgb(134, 56, 27);
+  left: 25rem;
+  top: 2rem;
+  background-color: rgba(42, 97, 26, 0.8);
+  opacity:100%;
+  padding:50px;
+}
+.gfg{
+  margin: 3%;
+  position: relative;
+}
+#bannerimage {
+  width: 100%;
+  background-image: url(0banner.jpeg);
+  height:250px;
+  background-color:(0, 0, 0);
+  background-position: -250px 835px;
+}
+
+
+  
+
